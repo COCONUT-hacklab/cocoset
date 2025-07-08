@@ -12,7 +12,6 @@ Folder ini menampung dataset-dataset yang berfokus pada keamanan siber, deteksi 
 * **`ET_processed_rules_with_embeddings.csv`**: Aturan ET yang telah diproses dan dilengkapi dengan representasi embeddings.
 * **`ET_clustered_dataset.csv`**: Dataset yang berisi hasil clustering dari aturan ET, mengelompokkan aturan serupa.
 * **`ET_dataset_with_relations.csv`**: Dataset ET yang mencakup hubungan antar aturan atau entitas terkait.
-* **`final_cicids_processed_dataset_for_training.parquet`**: Dataset CICIDS yang telah diproses dan diformat untuk tujuan pelatihan model machine learning, kemungkinan dalam format Parquet untuk efisiensi.
 
 ## Penggunaan
 
