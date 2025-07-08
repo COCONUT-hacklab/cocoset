@@ -30,7 +30,7 @@ Dataset dalam repositori ini tersedia untuk penggunaan penelitian non-komersial.
 
 Untuk pertanyaan lebih lanjut atau kolaborasi, Anda dapat menghubungi:
 
-[hello@coconut.or.ir]
+[hello@coconut.or.id]
 [https://coconut.or.id]
 
 © COCONUT Computer Club • Crafted with ❤️ by hacklab
